@@ -25,17 +25,13 @@ A full-stack food delivery web application built using React, Node.js, Express, 
 ## 📸 Screenshots
 
 ### Home Page
-
-![Home](./screenshots/home.png)
+![Home](./client/screenshots/home.png)
 
 ### Cart Page
-
-![Cart](./screenshots/cart.png)
+![Cart](./client/screenshots/cart.png)
 
 ### Payment Page
-
-![Payment](./screenshots/payment.png)
-
+![Payment](./client/screenshots/payment.png)
 ## ⚡ Installation
 
 ### Frontend
